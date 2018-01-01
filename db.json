@@ -1,0 +1,50 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { 
+	"name": "Nguyen Le Nguyen",
+	"email": "lenguyen051094@gmail.com",
+	"DOB": "05-10-1994",
+	"job": "Full stack developer",
+	"work": "FPT software"
+		
+  },
+  "myTeam": [
+	{
+		"id": 0,
+		"name": "Sam huynh",
+		"email": "Sam@gmail.com",
+		"DOB": "05-10-1994",
+		"job": "Team lead",
+		"work": "FPT software"
+	},
+	{	
+		"id": 1,
+		"name": "Cuong mui",
+		"email": "Cuonggmail.com",
+		"DOB": "05-10-1994",
+		"job": "SA",
+		"work": "FPT software"
+	},
+	{
+		"id": 2,
+		"name": "Duc ty",
+		"email": "Duc@gmail.com",
+		"DOB": "05-10-1994",
+		"job": "developer",
+		"work": "FPT software"
+	},
+	{
+		"id": 3,
+		"name": "Chinh",
+		"email": "Chinh@gmail.com",
+		"DOB": "05-10-1994",
+		"job": "developer",
+		"work": "FPT software"
+	}
+  ]
+}
